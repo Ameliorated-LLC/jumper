@@ -1,0 +1,14 @@
+Package: jumper
+Version: 0.1-1
+Architecture: amd64
+Maintainer: Styris
+Depends: zlib1g, libc6, iputils-ping
+Filename: ./jumper_0.1-1_amd64.deb
+Size: 9779304
+MD5sum: 433195f85142476d929a84454bd66e98
+SHA1: 2209801c7233cef63961d24dbe1ff5c7bb68d58b
+SHA256: 4e51aafbbf7f0137da4dbdad281edde4b54d74ad710bcec811f6081886b34009
+Section: base
+Priority: optional
+Description: Secure jump server manager
+
