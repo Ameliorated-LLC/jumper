@@ -3,7 +3,7 @@ Version: 0.1.0-1
 Architecture: amd64
 Maintainer: Styris
 Depends: zlib1g, libc6, iputils-ping
-Filename: /tmp/JumpPPA/jumper_0.1.0-1_amd64.deb
+Filename: ./jumper_0.1.0-1_amd64.deb
 Size: 9768860
 MD5sum: c8b3468a78c656d9ec6b598b3b9bffa7
 SHA1: 6108206be9ca72de24cb32bb88e67d83db451b4f
@@ -17,11 +17,11 @@ Version: 0.2.0-1
 Architecture: amd64
 Maintainer: Styris
 Depends: zlib1g, libc6, iputils-ping
-Filename: /tmp/JumpPPA/jumper_0.2.0-1_amd64.deb
-Size: 9780346
-MD5sum: f4460ae6878ea01bf84baf0d28885a3a
-SHA1: ebf0e42635acbf4469d7155aedfdb3a29f486948
-SHA256: 45d9c6c05ac5311093d5dda8e5e277035e1a4a8316ba1cf31b20f3758ac6891b
+Filename: ./jumper_0.2.0-1_amd64.deb
+Size: 9784064
+MD5sum: 02020a2d70669adeab60d450a8919cc8
+SHA1: 45bdb0b5ae660a872d508a3d2badfce3872e8e3c
+SHA256: 71960ed4c1c7ab4f63fbffb2299a2bb0799ff8f15235279ce1eced765a28bffb
 Section: base
 Priority: optional
 Description: Secure jump server manager
