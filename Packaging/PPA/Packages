@@ -18,10 +18,10 @@ Architecture: amd64
 Maintainer: Styris
 Depends: zlib1g, libc6, iputils-ping
 Filename: ./jumper_0.2.0-1_amd64.deb
-Size: 9784064
-MD5sum: 02020a2d70669adeab60d450a8919cc8
-SHA1: 45bdb0b5ae660a872d508a3d2badfce3872e8e3c
-SHA256: 71960ed4c1c7ab4f63fbffb2299a2bb0799ff8f15235279ce1eced765a28bffb
+Size: 9770562
+MD5sum: 6c546fb12797bce81038bee89f49626d
+SHA1: 14f0adedcdb0255cba576e06f7c7c3c10ae4eb24
+SHA256: 411fe115ec5dac1609816c0013b9ceb567de93d60e452e35a821d20f6628b12d
 Section: base
 Priority: optional
 Description: Secure jump server manager
